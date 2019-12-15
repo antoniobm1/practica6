@@ -4,8 +4,8 @@ La url de la practica 6 es la siguiente:
       
 # Instalacion de MYSQL y de NGINX
 
-En esta practica crearemos 2 maquinas:
-      -1 Front-end que sera con el servidor web NGINX
+En esta practica crearemos 3 maquinas:
+      -2 Front-end que sera con el servidor web NGINX
       -1 back-end que sera con la base de datos de MYSQL y PHP
 
 ## Instalacion de MYSQL y PHP
